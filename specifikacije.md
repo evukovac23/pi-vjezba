@@ -26,9 +26,11 @@ Navesti i objasniti 2
 
 
 ## Smjernice
-INCOSE
-Kratki i jasni, fokus na funkcionalnost
-Jasno definiran naslov
-*izbjegavat nikad, uvijek, 100%*
-
+- INCOSE
+- Kratki i jasni, fokus na funkcionalnost
+- Jasno definiran naslov
+- *izbjegavat nikad, uvijek, 100%*
+- Tocan raspon uvjeta
+- Zahtjev treba bit mjerljiv
+- Mora biti vremenski definiran (ne: u buducnosti itd)
 
