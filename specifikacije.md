@@ -14,7 +14,7 @@ Sustavski - software
 ## Funkcionalni zahtjevi
 
 - definira što software treba raditi, features
-
+- veci fokus na to
 
 
 ## Nefunkcionalni zahtjevi
@@ -22,4 +22,13 @@ Sustavski - software
 - ograničenja koja vrijede za cijeli software
 - zahtjevi kvalitete
 - utjece na arhitekturu
+Navesti i objasniti 2
+
+
+## Smjernice
+INCOSE
+Kratki i jasni, fokus na funkcionalnost
+Jasno definiran naslov
+*izbjegavat nikad, uvijek, 100%*
+
 
