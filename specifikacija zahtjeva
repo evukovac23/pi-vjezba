@@ -1,0 +1,39 @@
+Zahtjev, obrazloženje, način provjere, prioritet, izvor
+
+• Ograničavanje pristupa evidenciji.
+- Sustav će omogućiti pristup evidenciji studenata samo autoriziranim korisnicima 
+-kako bi se očuvala privatnost podataka. 
+- Oni koji imaju pristup se mogu logirat. 
+- Prioritet 1
+- Izvor: isti za sve, Specifikacija korisnickih zahtjeva APP
+
+
+• Definiranje modela praćenja kolegija.
+Sustav će omogućiti definiranje elemenata
+Elementi koji nose koliko bodova, za potpis uvjeti, i za ocjenu
+Provjera tak da se isproba upis
+Prioritet 4 jer se nece mijenjati
+Izvor
+
+
+Definiranje uvjeta za potpis
+
+Uvjeti za ocjenu
+
+
+
+• Unos studenata koji su upisani u kolegij.
+3 zahtjeva
+
+
+
+
+• Evidentiranje ostvarenih bodova studenta.
+• Predlaganje ocjene za studenta.
+• Ispis rezultata kontinuiranog praćenja
+
+
+
+
+
+
