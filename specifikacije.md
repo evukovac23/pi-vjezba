@@ -34,3 +34,4 @@ Navesti i objasniti 2
 - Zahtjev treba bit mjerljiv
 - Mora biti vremenski definiran (ne: u buducnosti itd)
 
+
